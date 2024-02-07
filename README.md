@@ -1,3 +1,65 @@
+<div align="center">
+
+  <h2>React Website with smooth scroll</h2>
+
+  <br>
+
+  <div align="center">
+    <a href="https://react-website-smooth-scr-98b69.web.app/">View Site</a>
+  </div>
+
+</div>
+
+#
+
+<div align="center">
+
+![](src/assets/desktop_preview.PNG)
+
+</div>
+
+<h2>Links</h2>
+
+- Live Site URL: https://react-website-smooth-scr-98b69.web.app/
+
+<br>
+
+## Table of contents
+
+- [](#)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Useful resources](#useful-resources)
+  - [Author](#author)
+  - [Run the project](#run-the-project)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+
+### Built with
+
+- React
+- Styled components
+- Mobile-first workflow
+
+## Useful resources
+
+- [Styled components] https://styled-components.com/
+
+## Author
+
+- LinkedIn - [Adrian Nasrat](https://www.linkedin.com/in/adrian-nasrat/)
+
+## Run the project
+
+To run the client, you need to run the following command:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
