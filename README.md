@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![](src/assets/desktop_preview.PNG)
+![](src/images/desktop_preview.PNG)
 
 </div>
 
